@@ -1,0 +1,7 @@
+data/com.plenjos.Files.desktop.in
+data/com.plenjos.Files.appdata.xml.in
+data/com.plenjos.Files.gschema.xml
+src/files-window.ui
+src/main.c
+src/files-window.c
+

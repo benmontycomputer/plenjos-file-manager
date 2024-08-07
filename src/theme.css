@@ -1,0 +1,49 @@
+#files_window {
+  /*background-color: rgba(51, 48, 47, 0.6);*/
+  background-color: rgba(55, 55, 55, 0.85);
+}
+
+#files_button {
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+#files_grid {
+  background-color: transparent;
+}
+
+#files_left_list_box row {
+  min-height: 32px;
+  padding: 0px 8px;
+  margin: 2px 8px 0px 8px;
+  background-color: transparent;
+  box-shadow: none;
+  border: none;
+  border-radius: 6px;
+}
+
+#files_left_list_box row:hover {
+  background-color: rgba(127, 127, 127, 0.2);
+}
+
+#files_left_list_box row:selected {
+  background-color: #3584e4;
+}
+
+.files_header_bar {
+  background-color: transparent;
+  border-bottom-color: transparent;
+}
+
+.transparent {
+  background-color: transparent;
+}
+
+.no_padding {
+  padding: 0px;
+}
+
+.no_margin {
+  margin: 0px;
+}
